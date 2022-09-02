@@ -1687,7 +1687,7 @@
   overflow: hidden;
   font-weight: normal;
   margin: 0;
-  color: #FFF;
+  color: #000000;
   margin-left: 10px;
 }
 .tl-timeera .tl-timeera-content-container .tl-timeera-content .tl-timeera-text h2.tl-headline.tl-headline-fadeout:after {
@@ -1812,7 +1812,7 @@
 .tl-timeaxis .tl-timeaxis-content-container .tl-timeaxis-minor .tl-timeaxis-tick:before {
   content: "|";
   display: block;
-  color: #FFF;
+  color: #666666;
   width: 1px;
   overflow: hidden;
   border-left: 1px solid #bfbfbf;
@@ -2606,7 +2606,7 @@
 .tl-slide.tl-full-image-background .vcard a,
 .tl-slide.tl-full-color-background .vcard a {
   text-shadow: 1px 1px 1px #000;
-  color: #ffffff;
+  color: #000000;
 }
 .tl-slide.tl-full-image-background a:hover,
 .tl-slide.tl-full-color-background a:hover {
@@ -2695,10 +2695,10 @@
   vertical-align: middle;
   text-align: left;
   text-shadow: none;
-  color: #FFFFFF;
+  color: #000000;
 }
 .tl-text p {
-  color: #FFFFFF;
+  color: #000000;
 }
 .tl-text h2.tl-headline-title,
 .tl-text h2.tl-headline {
